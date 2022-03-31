@@ -4,7 +4,7 @@
 </div>
 
 
-  <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Helo there, I'm <a href="https://daniilshat.ru/" target="_blank">Sekvoya</a> 
+  <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Helo there, I'm <a href="https://steamcommunity.com/id/cute_rock/" target="_blank">Sekvoya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student, from Russia</h3>
 
