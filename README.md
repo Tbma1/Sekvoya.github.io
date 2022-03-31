@@ -12,4 +12,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :purple_heart: In my free time, I create some VERY GOOD things for Discord
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Steam-Sekvoya-ff69b4)](your-linkedin-url)
+- 🍭 My steam: [![Linkedin Badge](https://img.shields.io/badge/Steam-Sekvoya-ff69b4)](https://steamcommunity.com/id/cute_rock/)
