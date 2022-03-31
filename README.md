@@ -4,7 +4,7 @@
 </div>
 
 
-I am tiny Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+          I am tiny Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 -  💛 I can create Addons/Models/Maps/Textures for Garry's Mod
 
