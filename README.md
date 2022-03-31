@@ -8,8 +8,14 @@ I am tiny Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 -  💛 I can create Addons/Models/Maps/Textures for Garry's Mod
 
+
+
 - :green_heart: Exploring HTML
 
+
+
 - :purple_heart: In my free time, I create some VERY GOOD things for Discord
+
+
 
 - 🍭 My steam: [![Linkedin Badge](https://img.shields.io/badge/Steam-Sekvoya-ff69b4)](https://steamcommunity.com/id/cute_rock/)
