@@ -6,10 +6,10 @@
 
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  💛 I can create Addons/Models/Maps/Textures for Garry's Mod
 
-- :seedling: Exploring Technical Content Writing.
+- :green_heart: Exploring HTML
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :purple_heart: In my free time, I create some VERY GOOD things for Discord
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
