@@ -12,11 +12,11 @@
 
 
 
-- :green_heart: Exploring HTML
+- :green_heart: Exploring Python/Lua
 
 
 
-- :purple_heart: In my free time, I create some VERY GOOD things for Discord
+- :purple_heart: In my free time, I research AI
 
 
 
